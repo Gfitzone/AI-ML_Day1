@@ -2,5 +2,5 @@
 
 ## Topics
 - [numpy](numpy.ipynb)
-- [python_basics](aiandml.ipynb)
+- [basics-of-python](aiandml.ipynb)
 - [filehandling](filehandling.ipynb)
