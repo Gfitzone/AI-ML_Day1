@@ -1,0 +1,10 @@
+ID,Name,Age,Email,JoinDate,grade
+1,John Doe,25,john.doe@example.com,2024-01-15,2
+2,,30,jane.doe@example.com,2024-02-20,3
+3,Mark Smith,25,mark.smith@example,2024-03-10,33
+4,Lisa Ray,NaN,lisa.ray@example.com,2024-15-40,12
+5,John Doe,25,john.doe@example.com,2024-01-15,10
+6,Alex,NaN,alex@example.com,2024-04-01,4
+7,Mary Jane,32,,20240512,333
+8,NaN,45,tom.lee@example.com,not-a-date,5
+6,Alex,NaN,alex@example.com,2024-04-01,4
