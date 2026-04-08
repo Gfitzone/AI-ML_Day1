@@ -2,9 +2,9 @@
 
 ## Topics
 
-- [numpy](numpy-dataframe/numpy.ipynb)
+- [numpy](numpy/numpy.ipynb)
 - [matplotlib](matplotlib/matplot.ipynb)
-- [pandas-dataframe](pandas/pandass.ipynb)
+- [pandas](pandas/pandass.ipynb)
 - [oneshot](oneshot/aiandml.ipynb)
 - [filehandling](filehandling/fileHandling.ipynb)
 - [basics-of-python](oneshot/hey.ipynb)
