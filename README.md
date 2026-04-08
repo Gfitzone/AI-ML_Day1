@@ -2,7 +2,7 @@
 
 ## Topics
 - [numpy](numpy.ipynb)
-- [pandas-dataframe](pandass.ipynb)
+- [pandas-dataframe](pandas)
 - [basics-of-python](aiandml.ipynb)
 - [filehandling](fileHandling.ipynb)
 - [basic-codes](BasicexamsPrograms.ipynb)
