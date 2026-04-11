@@ -2,6 +2,8 @@
 
 ## Topics
 
+click the link below to directly head into the respective file
+
 - [numpy](numpy/numpy.ipynb)
 - [matplotlib](matplotlib/matplot.ipynb)
 - [pandas](pandas/pandass.ipynb)
