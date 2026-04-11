@@ -13,4 +13,6 @@
 - [datastructures](examsQn/DataStructures.ipynb)
 - [mathlogic](examsQn/mathAndLogics.ipynb)
 - [strings](examsQn/StringPrograms.ipynb)
+- [sqlite-database](workingwithdatabase/Sqlite/connect.ipynb)
+- [mysql-database](workingwithdatabase/MYSQL/conn.ipynb)
 
