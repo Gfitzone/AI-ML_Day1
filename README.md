@@ -16,5 +16,5 @@ click the link below to directly head into the respective file
 - [mathlogic](examsQn/mathAndLogics.ipynb)
 - [strings](examsQn/StringPrograms.ipynb)
 - [sqlite-database](working_with_database/Sqlite/connect.ipynb)
-- [mysql-database](working_with_database/MYSQL/conn.ipynb)
+- [mysql-database](working_with_database/MySQL/conn.ipynb)
 
