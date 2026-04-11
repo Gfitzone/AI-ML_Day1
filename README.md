@@ -15,6 +15,6 @@ click the link below to directly head into the respective file
 - [datastructures](examsQn/DataStructures.ipynb)
 - [mathlogic](examsQn/mathAndLogics.ipynb)
 - [strings](examsQn/StringPrograms.ipynb)
-- [sqlite-database](workingwithdatabase/Sqlite/connect.ipynb)
-- [mysql-database](workingwithdatabase/MYSQL/conn.ipynb)
+- [sqlite-database](working_with_database/Sqlite/connect.ipynb)
+- [mysql-database](working_with_database/MYSQL/conn.ipynb)
 
